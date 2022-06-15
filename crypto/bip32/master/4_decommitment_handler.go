@@ -18,10 +18,10 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/getamis/alice/crypto/commitment"
-	pt "github.com/getamis/alice/crypto/ecpointgrouplaw"
-	"github.com/getamis/alice/crypto/polynomial"
-	"github.com/getamis/alice/internal/message/types"
+	"github.com/manishsharma864/alice/crypto/commitment"
+	pt "github.com/manishsharma864/alice/crypto/ecpointgrouplaw"
+	"github.com/manishsharma864/alice/crypto/polynomial"
+	"github.com/manishsharma864/alice/internal/message/types"
 	"github.com/getamis/sirius/log"
 )
 
