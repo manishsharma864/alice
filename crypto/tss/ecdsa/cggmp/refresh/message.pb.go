@@ -21,10 +21,10 @@
 package refresh
 
 import (
-	commitment "github.com/getamis/alice/crypto/commitment"
-	ecpointgrouplaw "github.com/getamis/alice/crypto/ecpointgrouplaw"
-	zkproof "github.com/getamis/alice/crypto/zkproof"
-	paillier "github.com/getamis/alice/crypto/zkproof/paillier"
+	commitment "github.com/manishsharma864/alice/crypto/commitment"
+	ecpointgrouplaw "github.com/manishsharma864/alice/crypto/ecpointgrouplaw"
+	zkproof "github.com/manishsharma864/alice/crypto/zkproof"
+	paillier "github.com/manishsharma864/alice/crypto/zkproof/paillier"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"
