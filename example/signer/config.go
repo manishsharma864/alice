@@ -17,9 +17,9 @@ import (
 	"fmt"
 	"io/ioutil"
 
-	"github.com/getamis/alice/crypto/tss/ecdsa/gg18/signer"
-	"github.com/getamis/alice/example/config"
-	"github.com/getamis/sirius/log"
+	"github.com/manishsharma864/alice/crypto/tss/ecdsa/gg18/signer"
+	"github.com/manishsharma864/alice/example/config"
+	"github.com/manishsharma864/sirius/log"
 	"gopkg.in/yaml.v2"
 )
 
