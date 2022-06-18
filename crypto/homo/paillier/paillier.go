@@ -21,10 +21,10 @@ import (
 
 	"github.com/getamis/alice/crypto/elliptic"
 
-	pt "github.com/getamis/alice/crypto/ecpointgrouplaw"
-	"github.com/getamis/alice/crypto/homo"
-	"github.com/getamis/alice/crypto/utils"
-	"github.com/getamis/alice/crypto/zkproof"
+	pt "github.com/manishsharma864/alice/crypto/ecpointgrouplaw"
+	"github.com/manishsharma864/alice/crypto/homo"
+	"github.com/manishsharma864/alice/crypto/utils"
+	"github.com/manishsharma864/alice/crypto/zkproof"
 	"github.com/golang/protobuf/proto"
 )
 
