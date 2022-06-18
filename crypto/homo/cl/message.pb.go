@@ -21,8 +21,8 @@
 package cl
 
 import (
-	binaryquadraticform "github.com/getamis/alice/crypto/binaryquadraticform"
-	ecpointgrouplaw "github.com/getamis/alice/crypto/ecpointgrouplaw"
+	binaryquadraticform "github.com/manishsharma864/alice/crypto/binaryquadraticform"
+	ecpointgrouplaw "github.com/manishsharma864/alice/crypto/ecpointgrouplaw"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"
