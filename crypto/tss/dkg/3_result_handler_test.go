@@ -16,15 +16,15 @@ package dkg
 import (
 	"time"
 
-	"github.com/getamis/alice/crypto/elliptic"
+	"github.com/manishsharma864/alice/crypto/elliptic"
 
-	"github.com/getamis/alice/crypto/ecpointgrouplaw"
-	"github.com/getamis/alice/crypto/matrix"
-	"github.com/getamis/alice/crypto/tss"
-	"github.com/getamis/alice/crypto/zkproof"
-	"github.com/getamis/alice/internal/message/types"
-	"github.com/getamis/alice/internal/message/types/mocks"
-	"github.com/getamis/sirius/log"
+	"github.com/manishsharma864/alice/crypto/ecpointgrouplaw"
+	"github.com/manishsharma864/alice/crypto/matrix"
+	"github.com/manishsharma864/alice/crypto/tss"
+	"github.com/manishsharma864/alice/crypto/zkproof"
+	"github.com/manishsharma864/alice/internal/message/types"
+	"github.com/manishsharma864/alice/internal/message/types/mocks"
+	"github.com/manishsharma864/sirius/log"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )
