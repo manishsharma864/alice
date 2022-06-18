@@ -18,12 +18,12 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/getamis/alice/crypto/birkhoffinterpolation"
-	"github.com/getamis/alice/crypto/ecpointgrouplaw"
-	"github.com/getamis/alice/crypto/elliptic"
-	"github.com/getamis/alice/crypto/tss/dkg"
-	"github.com/getamis/alice/example/config"
-	"github.com/getamis/sirius/log"
+	"github.com/manishsharma864/alice/crypto/birkhoffinterpolation"
+	"github.com/manishsharma864/alice/crypto/ecpointgrouplaw"
+	"github.com/manishsharma864/alice/crypto/elliptic"
+	"github.com/manishsharma864/alice/crypto/tss/dkg"
+	"github.com/manishsharma864/alice/example/config"
+	"github.com/manishsharma864/sirius/log"
 )
 
 var (
