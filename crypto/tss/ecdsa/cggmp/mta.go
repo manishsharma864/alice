@@ -17,9 +17,9 @@ package cggmp
 import (
 	"math/big"
 
-	pt "github.com/getamis/alice/crypto/ecpointgrouplaw"
-	"github.com/getamis/alice/crypto/homo/paillier"
-	"github.com/getamis/alice/crypto/utils"
+	pt "github.com/manishsharma864/alice/crypto/ecpointgrouplaw"
+	"github.com/manishsharma864/alice/crypto/homo/paillier"
+	"github.com/manishsharma864/alice/crypto/utils"
 	paillierzkproof "github.com/getamis/alice/crypto/zkproof/paillier"
 )
 
