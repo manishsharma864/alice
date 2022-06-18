@@ -21,8 +21,8 @@
 package signSix
 
 import (
-	ecpointgrouplaw "github.com/getamis/alice/crypto/ecpointgrouplaw"
-	paillier "github.com/getamis/alice/crypto/zkproof/paillier"
+	ecpointgrouplaw "github.com/manishsharma864/alice/crypto/ecpointgrouplaw"
+	paillier "github.com/manishsharma864/alice/crypto/zkproof/paillier"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"
