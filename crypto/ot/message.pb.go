@@ -21,8 +21,8 @@
 package ot
 
 import (
-	binaryfield "github.com/getamis/alice/crypto/binaryfield"
-	ecpointgrouplaw "github.com/getamis/alice/crypto/ecpointgrouplaw"
+	binaryfield "github.com/manishsharma864/alice/crypto/binaryfield"
+	ecpointgrouplaw "github.com/manishsharma864/alice/crypto/ecpointgrouplaw"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"
