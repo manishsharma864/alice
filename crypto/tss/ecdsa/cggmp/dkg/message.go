@@ -15,7 +15,7 @@
 package dkg
 
 import (
-	"github.com/getamis/alice/internal/message/types"
+	"github.com/manishsharma864/alice/internal/message/types"
 	"github.com/minio/blake2b-simd"
 	"google.golang.org/protobuf/proto"
 )
