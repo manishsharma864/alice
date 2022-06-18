@@ -17,9 +17,9 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/getamis/alice/example/dkg"
-	"github.com/getamis/alice/example/reshare"
-	"github.com/getamis/alice/example/signer"
+	"github.com/manishsharma864/alice/example/dkg"
+	"github.com/manishsharma864/alice/example/reshare"
+	"github.com/manishsharma864/alice/example/signer"
 	"github.com/spf13/cobra"
 )
 
