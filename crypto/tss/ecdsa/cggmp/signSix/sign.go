@@ -17,14 +17,14 @@ package signSix
 import (
 	"math/big"
 
-	"github.com/getamis/alice/crypto/birkhoffinterpolation"
-	pt "github.com/getamis/alice/crypto/ecpointgrouplaw"
-	"github.com/getamis/alice/crypto/homo/paillier"
-	"github.com/getamis/alice/crypto/tss"
-	paillierzkproof "github.com/getamis/alice/crypto/zkproof/paillier"
-	"github.com/getamis/alice/internal/message"
-	"github.com/getamis/alice/internal/message/types"
-	"github.com/getamis/sirius/log"
+	"github.com/manishsharma864/alice/crypto/birkhoffinterpolation"
+	pt "github.com/manishsharma864/alice/crypto/ecpointgrouplaw"
+	"github.com/manishsharma864/alice/crypto/homo/paillier"
+	"github.com/manishsharma864/alice/crypto/tss"
+	paillierzkproof "github.com/manishsharma864/alice/crypto/zkproof/paillier"
+	"github.com/manishsharma864/alice/internal/message"
+	"github.com/manishsharma864/alice/internal/message/types"
+	"github.com/manishsharma864/sirius/log"
 )
 
 type Sign struct {
