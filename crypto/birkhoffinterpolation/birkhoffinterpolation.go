@@ -20,9 +20,9 @@ import (
 	"math/big"
 	"sort"
 
-	pt "github.com/getamis/alice/crypto/ecpointgrouplaw"
-	"github.com/getamis/alice/crypto/matrix"
-	"github.com/getamis/alice/crypto/utils"
+	pt "github.com/manishsharma864/alice/crypto/ecpointgrouplaw"
+	"github.com/manishsharma864/alice/crypto/matrix"
+	"github.com/manishsharma864/alice/crypto/utils"
 	"gonum.org/v1/gonum/stat/combin"
 )
 
