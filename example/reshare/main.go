@@ -14,9 +14,9 @@
 package reshare
 
 import (
-	"github.com/getamis/alice/example/peer"
-	"github.com/getamis/alice/example/utils"
-	"github.com/getamis/sirius/log"
+	"github.com/manishsharma864/alice/example/peer"
+	"github.com/manishsharma864/alice/example/utils"
+	"github.com/manishsharma864/sirius/log"
 	"github.com/libp2p/go-libp2p-core/network"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
