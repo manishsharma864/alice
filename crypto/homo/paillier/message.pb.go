@@ -21,7 +21,7 @@
 package paillier
 
 import (
-	zkproof "github.com/getamis/alice/crypto/zkproof"
+	zkproof "github.com/manishsharma864/alice/crypto/zkproof"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"
