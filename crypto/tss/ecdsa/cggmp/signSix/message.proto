@@ -16,10 +16,10 @@ syntax = "proto3";
 
 package signSix;
 
-option go_package = "github.com/getamis/alice/crypto/tss/ecdsa/cggmp/signSix";
+option go_package = "github.com/manishsharma864/alice/crypto/tss/ecdsa/cggmp/signSix";
 
-import "github.com/getamis/alice/crypto/ecpointgrouplaw/point.proto";
-import "github.com/getamis/alice/crypto/zkproof/paillier/message.proto";
+import "github.com/manishsharma864/alice/crypto/ecpointgrouplaw/point.proto";
+import "github.com/manishsharma864/alice/crypto/zkproof/paillier/message.proto";
 
 enum Type {
     Round1 = 0;
