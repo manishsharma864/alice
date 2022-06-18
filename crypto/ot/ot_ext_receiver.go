@@ -15,8 +15,8 @@
 package ot
 
 import (
-	"github.com/getamis/alice/crypto/binaryfield"
-	"github.com/getamis/alice/crypto/utils"
+	"github.com/manishsharma864/alice/crypto/binaryfield"
+	"github.com/manishsharma864/alice/crypto/utils"
 )
 
 /*
