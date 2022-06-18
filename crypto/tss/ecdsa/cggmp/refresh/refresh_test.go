@@ -18,12 +18,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/getamis/alice/crypto/birkhoffinterpolation"
-	pt "github.com/getamis/alice/crypto/ecpointgrouplaw"
-	"github.com/getamis/alice/crypto/elliptic"
-	"github.com/getamis/alice/crypto/tss"
-	"github.com/getamis/alice/internal/message/types"
-	"github.com/getamis/alice/internal/message/types/mocks"
+	"github.com/manishsharma864/alice/crypto/birkhoffinterpolation"
+	pt "github.com/manishsharma864/alice/crypto/ecpointgrouplaw"
+	"github.com/manishsharma864/alice/crypto/elliptic"
+	"github.com/manishsharma864/alice/crypto/tss"
+	"github.com/manishsharma864/alice/internal/message/types"
+	"github.com/manishsharma864/alice/internal/message/types/mocks"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )
