@@ -19,14 +19,14 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/getamis/alice/crypto/commitment"
-	"github.com/getamis/alice/crypto/ecpointgrouplaw"
-	"github.com/getamis/alice/crypto/tss"
-	"github.com/getamis/alice/crypto/tss/ecdsa/cggmp"
-	"github.com/getamis/alice/crypto/utils"
-	"github.com/getamis/alice/crypto/zkproof"
-	"github.com/getamis/alice/internal/message/types"
-	"github.com/getamis/sirius/log"
+	"github.com/manishsharma864/alice/crypto/commitment"
+	"github.com/manishsharma864/alice/crypto/ecpointgrouplaw"
+	"github.com/manishsharma864/alice/crypto/tss"
+	"github.com/manishsharma864/alice/crypto/tss/ecdsa/cggmp"
+	"github.com/manishsharma864/alice/crypto/utils"
+	"github.com/manishsharma864/alice/crypto/zkproof"
+	"github.com/manishsharma864/alice/internal/message/types"
+	"github.com/manishsharma864/sirius/log"
 )
 
 var (
