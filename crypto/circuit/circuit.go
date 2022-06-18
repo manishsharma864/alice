@@ -23,8 +23,8 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/getamis/alice/crypto/utils"
-	"github.com/getamis/sirius/log"
+	"github.com/manishsharma864/alice/crypto/utils"
+	"github.com/manishsharma864/sirius/log"
 	"github.com/minio/blake2b-simd"
 )
 
