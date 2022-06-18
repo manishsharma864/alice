@@ -18,8 +18,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/getamis/alice/example/utils"
-	"github.com/getamis/sirius/log"
+	"github.com/manishsharma864/alice/example/utils"
+	"github.com/manishsharma864/sirius/log"
 	"github.com/libp2p/go-libp2p-core/host"
 	"github.com/libp2p/go-libp2p-core/protocol"
 )
