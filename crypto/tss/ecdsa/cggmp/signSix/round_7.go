@@ -19,9 +19,9 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/getamis/alice/crypto/tss"
-	"github.com/getamis/alice/internal/message/types"
-	"github.com/getamis/sirius/log"
+	"github.com/manishsharma864/alice/crypto/tss"
+	"github.com/manishsharma864/alice/internal/message/types"
+	"github.com/manishsharma864/sirius/log"
 )
 
 type Result struct {
