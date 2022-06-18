@@ -21,7 +21,7 @@
 package commitment
 
 import (
-	ecpointgrouplaw "github.com/getamis/alice/crypto/ecpointgrouplaw"
+	ecpointgrouplaw "github.com/manishsharma864/alice/crypto/ecpointgrouplaw"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"
