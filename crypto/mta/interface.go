@@ -17,11 +17,11 @@ package mta
 import (
 	"math/big"
 
-	"github.com/getamis/alice/crypto/elliptic"
+	"github.com/manishsharma864/alice/crypto/elliptic"
 
-	pt "github.com/getamis/alice/crypto/ecpointgrouplaw"
-	"github.com/getamis/alice/crypto/homo"
-	"github.com/getamis/alice/crypto/zkproof"
+	pt "github.com/manishsharma864/alice/crypto/ecpointgrouplaw"
+	"github.com/manishsharma864/alice/crypto/homo"
+	"github.com/manishsharma864/alice/crypto/zkproof"
 )
 
 //go:generate mockery -name Mta
