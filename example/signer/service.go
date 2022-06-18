@@ -16,11 +16,11 @@ package signer
 import (
 	"io/ioutil"
 
-	"github.com/getamis/alice/crypto/homo/paillier"
-	"github.com/getamis/alice/crypto/tss/ecdsa/gg18/signer"
-	"github.com/getamis/alice/example/utils"
-	"github.com/getamis/alice/internal/message/types"
-	"github.com/getamis/sirius/log"
+	"github.com/manishsharma864/alice/crypto/homo/paillier"
+	"github.com/manishsharma864/alice/crypto/tss/ecdsa/gg18/signer"
+	"github.com/manishsharma864/alice/example/utils"
+	"github.com/manishsharma864/alice/internal/message/types"
+	"github.com/manishsharma864/sirius/log"
 	"github.com/golang/protobuf/proto"
 	"github.com/libp2p/go-libp2p-core/network"
 )
