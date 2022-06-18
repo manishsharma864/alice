@@ -17,7 +17,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/getamis/alice/crypto/elliptic"
+	"github.com/manishsharma864/alice/crypto/elliptic"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/ginkgo/extensions/table"
 	. "github.com/onsi/gomega"
