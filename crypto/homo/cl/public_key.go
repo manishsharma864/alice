@@ -17,9 +17,9 @@ package cl
 import (
 	"math/big"
 
-	binaryquadraticform "github.com/getamis/alice/crypto/binaryquadraticform"
-	bqForm "github.com/getamis/alice/crypto/binaryquadraticform"
-	"github.com/getamis/alice/crypto/utils"
+	binaryquadraticform "github.com/manishsharma864/alice/crypto/binaryquadraticform"
+	bqForm "github.com/manishsharma864/alice/crypto/binaryquadraticform"
+	"github.com/manishsharma864/alice/crypto/utils"
 )
 
 const (
