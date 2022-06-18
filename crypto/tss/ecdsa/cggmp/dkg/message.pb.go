@@ -21,9 +21,9 @@
 package dkg
 
 import (
-	birkhoffinterpolation "github.com/getamis/alice/crypto/birkhoffinterpolation"
-	commitment "github.com/getamis/alice/crypto/commitment"
-	zkproof "github.com/getamis/alice/crypto/zkproof"
+	birkhoffinterpolation "github.com/manishsharma864/alice/crypto/birkhoffinterpolation"
+	commitment "github.com/manishsharma864/alice/crypto/commitment"
+	zkproof "github.com/manishsharma864/alice/crypto/zkproof"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"
