@@ -17,9 +17,9 @@ package commitment
 import (
 	"math/big"
 
-	bkhoff "github.com/getamis/alice/crypto/birkhoffinterpolation"
-	pt "github.com/getamis/alice/crypto/ecpointgrouplaw"
-	"github.com/getamis/alice/crypto/polynomial"
+	bkhoff "github.com/manishsharma864/alice/crypto/birkhoffinterpolation"
+	pt "github.com/manishsharma864/alice/crypto/ecpointgrouplaw"
+	"github.com/manishsharma864/alice/crypto/polynomial"
 )
 
 type PedersenCommitmenter struct {
