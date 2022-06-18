@@ -19,8 +19,8 @@ import (
 	"math/big"
 	"strconv"
 
-	pt "github.com/getamis/alice/crypto/ecpointgrouplaw"
-	"github.com/getamis/alice/crypto/utils"
+	pt "github.com/manishsharma864/alice/crypto/ecpointgrouplaw"
+	"github.com/manishsharma864/alice/crypto/utils"
 	"github.com/golang/protobuf/ptypes/any"
 )
 
